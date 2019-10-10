@@ -1,0 +1,107 @@
+body{
+    font-family: 'Josefin Sans', sans-serif;
+}
+.logo{
+    position: absolute;
+    top:-120px;
+    margin-left: 100px;
+    width: 120px;
+    height: 30;
+}
+.bg-design{
+    width:700px;
+    height: 700px;
+    position:absolute;
+    z-index: -1;
+    top: 0%;
+}
+/* #mainsection{
+    position:absolute;
+    top: 30%;
+    z-index: 1;
+    background-color: red;
+} */
+.desktop-photo{
+width:700px;
+height:700px;
+position:absolute;
+left: 50%;
+top:0;
+
+}
+.header{
+    position: relative;
+    top: 180px;
+    width: 27%;
+    font-size: 30px;
+    line-height: 0.5;
+    letter-spacing: 0.8rem;
+    
+
+}
+.h1 {
+    color: #F8BFBF;
+    font-weight: 300;
+    margin:50px 0 20px 50px;  
+}
+.h2{
+    line-height: 0.8;
+    margin: 0 50px 50px 50px;
+}
+
+.paragraph {
+    position: relative;
+    top: 160px;
+    width:27% ;
+    color: #F8BFBF;
+    margin:0 0 0 50px;
+    line-height: 1.5;
+}
+.footer{
+    position:relative;
+    top:250px;
+
+}
+
+.btn1{
+
+}
+
+input{
+    color: #F8BFBF;
+    padding: 1.1%;
+    width: 20%;
+    height: 10%;
+    margin-left:50px;
+    border-radius: 28px; 
+    border-color: #F8BFBF;
+    border: 1px solid;
+}
+.attribution{
+    position: relative;
+    top:280px;
+    text-decoration: none;
+    color:  #F8BFBF;
+}
+.btn{
+
+    position: relative;
+    bottom: 75px;
+}
+
+
+.button{
+    color: #ffffff;
+    border: 1px;
+    margin-left: -3.1%;
+    height: 10px;
+    width:40px;
+    padding: 0.8%;
+    border-radius: 28px;
+    background-color: #F8BFBF;
+    border-color: #F8BFBF;
+    box-shadow: 5px 10px 10px 0 #F8BFBF;
+}
+.button:active{
+    background-color: antiquewhite;
+}
